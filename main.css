@@ -73,8 +73,9 @@ H2{
       max-width="100%"
       display: block;
       margin: 0 auto;
-      width:50%;
-      height:auto;
+      width:500;
+      height:300;
+       text-align:center;
       
       
 }
