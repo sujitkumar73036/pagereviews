@@ -106,7 +106,7 @@ container {
       }
 body {
    font-family: 'Arial', sans-serif;
-   font-size: 16px;
+   font-size: 20px;
    line-height: 1.6;
    margin: 0;
    padding: 0;
@@ -139,7 +139,7 @@ body {
 {
 header {
             background-color: Black;
-          font-size:12px;
+          font-size:18px;
             padding: 2px;
             text-align: Center;
       
@@ -152,7 +152,7 @@ H1{
 
 H2{
         margin: 16px;
-        font-size:12px;
+        font-size:18px;
       }
      img {
       max-width: 250px;
@@ -164,7 +164,7 @@ p{
             margin: 10px;
             vertical-align: middle;
             margin-left: 10px;
-            font-size: 10px;
+            font-size: 16px;
             line-height: 1.5;
            margin-bottom: 10px;
            
